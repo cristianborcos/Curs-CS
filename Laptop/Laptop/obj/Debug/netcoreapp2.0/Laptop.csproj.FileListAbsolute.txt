@@ -1,0 +1,11 @@
+C:\Users\borco\source\repos\Laptop\Laptop\bin\Debug\netcoreapp2.0\Laptop.deps.json
+C:\Users\borco\source\repos\Laptop\Laptop\bin\Debug\netcoreapp2.0\Laptop.runtimeconfig.json
+C:\Users\borco\source\repos\Laptop\Laptop\bin\Debug\netcoreapp2.0\Laptop.runtimeconfig.dev.json
+C:\Users\borco\source\repos\Laptop\Laptop\bin\Debug\netcoreapp2.0\Laptop.dll
+C:\Users\borco\source\repos\Laptop\Laptop\bin\Debug\netcoreapp2.0\Laptop.pdb
+C:\Users\borco\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.0\Laptop.csprojResolveAssemblyReference.cache
+C:\Users\borco\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.0\Laptop.csproj.CoreCompileInputs.cache
+C:\Users\borco\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.0\Laptop.AssemblyInfoInputs.cache
+C:\Users\borco\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.0\Laptop.AssemblyInfo.cs
+C:\Users\borco\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.0\Laptop.dll
+C:\Users\borco\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.0\Laptop.pdb
